@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/CharanSingh1/LeetCode/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/CharanSingh1/LeetCode/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/CharanSingh1/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/CharanSingh1/LeetCode/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/CharanSingh1/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -42,9 +43,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/CharanSingh1/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/CharanSingh1/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/CharanSingh1/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/CharanSingh1/LeetCode/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/CharanSingh1/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
