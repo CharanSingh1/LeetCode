@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/CharanSingh1/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/CharanSingh1/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/CharanSingh1/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/CharanSingh1/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/CharanSingh1/LeetCode/tree/master/0011-container-with-most-water) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/CharanSingh1/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Depth-First Search
 |  |
 | ------- |
